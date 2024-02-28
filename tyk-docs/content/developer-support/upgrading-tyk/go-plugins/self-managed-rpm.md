@@ -370,6 +370,7 @@ yum history undo <ID>
 yum history rollback <ID>
 ```
 
+
 {{< note >}}
 **Note**  
 These commands are provided as general guidelines and should be used with caution. It's advisable to consult with your system administrator or seek assistance from a qualified professional before executing any system-level commands
